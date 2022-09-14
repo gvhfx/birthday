@@ -27,12 +27,12 @@ var config = {
     imgs: {
         "亲爱的女神": "./images/1.jpg",
         "成长不期而遇": "./images/2.jpg",
-        "生日如约而至": "./images/2.jpg",
+        "生日如约而至": "./images/6.jpg",
         "比时光更利落": "./images/3.jpg",
-        "比星光更灿烂": "./images/3.jpg",
+        "比星光更灿烂": "./images/7.jpg",
         "生日快乐宝贝！": "./images/4.jpg",
         "愿绚烂的花": "./images/5.jpg",
-        "在一路上盛开": "./images/5.jpg",
+        "在一路上盛开": "./images/8.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
